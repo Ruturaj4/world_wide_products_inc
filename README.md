@@ -69,7 +69,7 @@ Lastly, I used ARIMA model for forecasting. I splitted product data into trainin
 
 ### Final Comments
 
-In future, I decided to look more into these algorithms and methods, I also decided to verfy some assumption I made based on online videos, articles, etc. I also think that I learned a lot from this project.
+In future, I decided to look more into these algorithms and methods, I also decided to verify some assumption I made based on online videos, articles, etc. I think that I should look more into ACF and PACF graphs, which are used to determine the values of p,q and r (this is a good think to know). I also think that I learned a lot from this project.
 
 ### License
 
