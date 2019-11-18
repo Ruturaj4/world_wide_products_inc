@@ -67,6 +67,10 @@ Lastly, I used ARIMA model for forecasting. I splitted product data into trainin
 
 ![alt text](/reports/figures/forecast.png)
 
+### Final Comments
+
+In future, I decided to look more into these algorithms and methods, I also decided to verfy some assumption I made based on online videos, articles, etc. I also think that I learned a lot from this project.
+
 ### License
 
 <b>MIT</b>
